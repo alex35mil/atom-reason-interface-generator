@@ -1,0 +1,17 @@
+{
+  "name": "reason-interface-generator",
+  "main": "./lib/reason-interface-generator.js",
+  "version": "0.0.0",
+  "description": "Generate ReasonML/OCaml interface files from Atom editor",
+  "keywords": [
+    "reason",
+    "reasonml",
+    "ocaml",
+    "bucklescript"
+  ],
+  "repository": "https://github.com/alexfedoseev/atom-reason-interface-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
